@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_lang,agency_timezone,agency_url,agency_email,agency_fare_url
+MWR,Mandai Wildlife Reserve,en,Asia/Singapore,https://www.mandai.com/,enquiry@mandai.com,https://www.mandai.com/en/plan-your-visit/getting-to-and-around/getting-to-mandai-wildlife-reserve.html

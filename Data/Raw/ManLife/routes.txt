@@ -1,0 +1,2 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+M2,MWR,M2,Mandai Khatib Bus - M2,Shuttle service from Khatib MRT Station (NS14) to Mandai Wildlife Reserve,3,https://www.mandai.com/en/plan-your-visit/getting-to-and-around/getting-to-mandai-wildlife-reserve.html,003400,ffcc00

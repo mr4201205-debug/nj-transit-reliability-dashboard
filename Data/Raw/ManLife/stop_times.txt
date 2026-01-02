@@ -1,0 +1,7 @@
+trip_id,stop_id,stop_sequence,arrival_time,departure_time,stop_headsign,pickup_type,drop_off_type,timepoint
+KHATIB_TO_MANDAI,KHATIB,1,08:30:00,08:30:00,,0,0,0
+KHATIB_TO_MANDAI,48111,2,08:45:00,08:45:00,,0,0,0
+KHATIB_TO_MANDAI,MWE,3,08:50:00,08:50:00,,0,0,0
+MANDAI_TO_KHATIB,MWE,1,08:30:00,08:30:00,,0,0,0
+MANDAI_TO_KHATIB,48119,2,08:35:00,08:35:00,,0,0,0
+MANDAI_TO_KHATIB,KHATIB,3,08:50:00,08:50:00,,0,0,0
