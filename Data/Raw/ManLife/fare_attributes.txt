@@ -1,3 +1,0 @@
-fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
-FREE,0.0,SGD,0,0,MWR,0
-PAID,2.5,SGD,0,0,MWR,0

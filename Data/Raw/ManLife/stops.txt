@@ -1,5 +1,0 @@
-stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,zone_id,level_id,stop_timezone,platform_code,wheelchair_boarding,stop_code,stop_url,stop_desc
-48111,Mandai Wildlife WEST,1.408595,103.780294,,,MWW,,,,1,,,Opp Bird Paradise
-48119,Mandai Wildlife WEST,1.408396,103.780256,,,MWW,,,,1,,,Bird Paradise
-KHATIB,Khatib MRT Exit A Pick Up Point,1.417558,103.833248,,,KHATIB,,,,1,,,Khatib MRT Exit A Passenger Pick Up Point
-MWE,Mandai Wildlife EAST,1.405128,103.789333,,,MWE,,,,1,,,Mandai Transport Hub Coach Bay

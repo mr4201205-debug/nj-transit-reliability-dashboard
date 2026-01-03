@@ -1,2 +1,0 @@
-feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-Mandai Wildlife Reserve,https://www.mandai.com/,en,en,20250101,20301231,2025-01,enquiry@mandai.com,https://www.mandai.com/en/contact-us.html
