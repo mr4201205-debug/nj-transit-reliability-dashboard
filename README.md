@@ -23,8 +23,8 @@ service frequency, peak period intensity, and weekday vs weekend differences.
 This project mirrors internal transit performance and service planning dashboards.
 
 ## Weekday vs Weekend Service
-![Weekday vs Weekend](screenshots/weekday_vs_weekend.png)
+![Weekday vs Weekend](Screenshots/weekday_vs_weekend.png)
 
 ## Morning Peak Service
-![Morning Peak](screenshots/morning_peak_routes.png)
+![Morning Peak](Screenshots/morning_peak_routes.png)
 
